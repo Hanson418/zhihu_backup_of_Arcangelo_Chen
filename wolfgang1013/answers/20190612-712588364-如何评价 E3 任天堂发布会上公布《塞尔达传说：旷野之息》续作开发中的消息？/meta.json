@@ -1,0 +1,39 @@
+{
+  "type": "answer",
+  "id": "712588364",
+  "url": "https://www.zhihu.com/question/328961922/answer/712588364",
+  "title": "如何评价 E3 任天堂发布会上公布《塞尔达传说：旷野之息》续作开发中的消息？",
+  "author": "陈子敏",
+  "author_url": "http://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1560276590,
+  "updated": 1609833384,
+  "voteup_count": 71,
+  "comment_count": 19,
+  "favorite_count": 12,
+  "like_count": 5,
+  "source": "api",
+  "extra": {
+    "question_id": "328961922",
+    "question_title": "如何评价 E3 任天堂发布会上公布《塞尔达传说：旷野之息》续作开发中的消息？",
+    "question_html": "",
+    "embedded_videos": [
+      {
+        "id": "1122120412053528576",
+        "local_file": "videos/1122120412053528576.mp4",
+        "url": "https://vdn3.vzuu.com/HD/v3_3c23deec-8c80-11e9-968f-0a580a413fd9.mp4?auth_key=1792303560-0-0-ac73a7de84cb25835b59eba00a638a12&bu=09fd86c2&c=avc.0.0&disable_local_cache=1&expiration=1792303560&f=mp4&pu=da4bec50&v=tx&pp=ChMxNDAxNjIzODY1NzM5NTc5MzkyGGMiC2ZlZWRfY2hvaWNlMhMxMzY5MDA1NjA4NTk5OTA0MjU3PXu830Q%3D&pf=Web&pt=zhihu",
+        "poster": "",
+        "video_meta": {
+          "local_file": "videos/1122120412053528576.mp4",
+          "url": "https://vdn3.vzuu.com/HD/v3_3c23deec-8c80-11e9-968f-0a580a413fd9.mp4?auth_key=1792303560-0-0-ac73a7de84cb25835b59eba00a638a12&bu=09fd86c2&c=avc.0.0&disable_local_cache=1&expiration=1792303560&f=mp4&pu=da4bec50&v=tx&pp=ChMxNDAxNjIzODY1NzM5NTc5MzkyGGMiC2ZlZWRfY2hvaWNlMhMxMzY5MDA1NjA4NTk5OTA0MjU3PXu830Q%3D&pf=Web&pt=zhihu",
+          "quality": "hd",
+          "format": "mp4",
+          "size": 7856925,
+          "width": 0,
+          "height": 0,
+          "bitrate": 0,
+          "duration": 0
+        }
+      }
+    ]
+  }
+}

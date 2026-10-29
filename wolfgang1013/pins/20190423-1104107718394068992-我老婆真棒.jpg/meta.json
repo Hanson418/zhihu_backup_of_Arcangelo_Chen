@@ -1,0 +1,25 @@
+{
+  "type": "pin",
+  "id": "1104107718394068992",
+  "url": "https://www.zhihu.com/pin/1104107718394068992",
+  "title": "我老婆真棒.jpg",
+  "author": "陈子敏",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1556019793,
+  "updated": 1556019793,
+  "voteup_count": 5,
+  "comment_count": 2,
+  "favorite_count": 0,
+  "like_count": 0,
+  "source": "api",
+  "extra": {
+    "parts": [
+      {
+        "content": "我老婆真棒.jpg",
+        "fold_type": "raw",
+        "own_text": "我老婆真棒.jpg",
+        "type": "text"
+      }
+    ]
+  }
+}

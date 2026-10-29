@@ -1,0 +1,104 @@
+{
+  "type": "zvideo",
+  "id": "1355601759059046400",
+  "url": "https://www.zhihu.com/zvideo/1355601759059046400",
+  "title": "巴洛克风格《两只老虎爱跳舞》",
+  "author": "陈子敏",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1615980990,
+  "updated": 1619401954,
+  "voteup_count": 23,
+  "comment_count": 11,
+  "favorite_count": 4,
+  "like_count": 7,
+  "source": "api",
+  "extra": {
+    "video": {
+      "playlist": {
+        "hd": {
+          "play_url": "https://vdn3.vzuu.com/HD/356e0e0c-8714-11eb-a99c-b262ffafb62c-t1-vdrCjHDS0k.mp4?auth_key=1792303660-0-0-88989272f6f1c04fc5dd66fb60596a33&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303660&f=mp4&pu=da4bec50&v=tx",
+          "bitrate": 1169.434,
+          "duration": 92.741,
+          "format": "mp4",
+          "fps": 25,
+          "size": 13556820,
+          "height": 866,
+          "width": 1280,
+          "channels": 2,
+          "sample_rate": 44100,
+          "url": "https://vdn3.vzuu.com/HD/356e0e0c-8714-11eb-a99c-b262ffafb62c-t1-vdrCjHDS0k.mp4?auth_key=1792303660-0-0-88989272f6f1c04fc5dd66fb60596a33&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303660&f=mp4&pu=da4bec50&v=tx"
+        },
+        "ld": {
+          "play_url": "https://vdn3.vzuu.com/SD/356e0e0c-8714-11eb-a99c-b262ffafb62c-t1-vdrCjHDS0k.mp4?auth_key=1792303660-0-0-77864ef29c916b7873403f728dc0e721&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303660&f=mp4&pu=da4bec50&v=tx",
+          "bitrate": 748.676,
+          "duration": 92.741,
+          "format": "mp4",
+          "fps": 25,
+          "size": 8679131,
+          "height": 574,
+          "width": 848,
+          "channels": 2,
+          "sample_rate": 44100,
+          "url": "https://vdn3.vzuu.com/SD/356e0e0c-8714-11eb-a99c-b262ffafb62c-t1-vdrCjHDS0k.mp4?auth_key=1792303660-0-0-77864ef29c916b7873403f728dc0e721&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303660&f=mp4&pu=da4bec50&v=tx"
+        },
+        "sd": {
+          "play_url": "https://vdn3.vzuu.com/SD/356e0e0c-8714-11eb-a99c-b262ffafb62c-t1-vdrCjHDS0k.mp4?auth_key=1792303660-0-0-77864ef29c916b7873403f728dc0e721&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303660&f=mp4&pu=da4bec50&v=tx",
+          "bitrate": 748.676,
+          "duration": 92.741,
+          "format": "mp4",
+          "fps": 25,
+          "size": 8679131,
+          "height": 574,
+          "width": 848,
+          "channels": 2,
+          "sample_rate": 44100,
+          "url": "https://vdn3.vzuu.com/SD/356e0e0c-8714-11eb-a99c-b262ffafb62c-t1-vdrCjHDS0k.mp4?auth_key=1792303660-0-0-77864ef29c916b7873403f728dc0e721&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303660&f=mp4&pu=da4bec50&v=tx"
+        }
+      },
+      "variants": [
+        {
+          "quality": "hd",
+          "quality_label": "hd",
+          "url": "https://vdn3.vzuu.com/HD/356e0e0c-8714-11eb-a99c-b262ffafb62c-t1-vdrCjHDS0k.mp4?auth_key=1792303660-0-0-88989272f6f1c04fc5dd66fb60596a33&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303660&f=mp4&pu=da4bec50&v=tx",
+          "format": "mp4",
+          "width": 1280,
+          "height": 866,
+          "bitrate": 1169,
+          "size": 13556820,
+          "duration": 92.741
+        },
+        {
+          "quality": "ld",
+          "quality_label": "sd",
+          "url": "https://vdn3.vzuu.com/SD/356e0e0c-8714-11eb-a99c-b262ffafb62c-t1-vdrCjHDS0k.mp4?auth_key=1792303660-0-0-77864ef29c916b7873403f728dc0e721&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303660&f=mp4&pu=da4bec50&v=tx",
+          "format": "mp4",
+          "width": 848,
+          "height": 574,
+          "bitrate": 748,
+          "size": 8679131,
+          "duration": 92.741
+        }
+      ],
+      "url": "https://vdn3.vzuu.com/HD/356e0e0c-8714-11eb-a99c-b262ffafb62c-t1-vdrCjHDS0k.mp4?auth_key=1792303660-0-0-88989272f6f1c04fc5dd66fb60596a33&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303660&f=mp4&pu=da4bec50&v=tx",
+      "cover": "https://picx.zhimg.com/v2-7f324eb2baaab405e00b170698d22892_1440w.jpg?source=12a79843",
+      "duration": 92.741,
+      "width": 1280,
+      "height": 866,
+      "bitrate": 1169,
+      "size": 13556820,
+      "local_file": "videos/001.mp4",
+      "video_meta": {
+        "local_file": "videos/001.mp4",
+        "url": "https://vdn3.vzuu.com/HD/356e0e0c-8714-11eb-a99c-b262ffafb62c-t1-vdrCjHDS0k.mp4?auth_key=1792303660-0-0-88989272f6f1c04fc5dd66fb60596a33&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303660&f=mp4&pu=da4bec50&v=tx",
+        "quality": "hd",
+        "format": "mp4",
+        "size": 13556820,
+        "width": 1280,
+        "height": 866,
+        "bitrate": 1169,
+        "duration": 92.741
+      }
+    },
+    "description": "以“两只老虎爱跳舞”为材料展开写作的一个复调风格铜管五重奏，因为结构与对位都并不严谨所以美其名曰“小赋格（Fughetta）”好了。这次所用的编制并不像传统的铜管五重奏而是只有一把小号并加入了一把上低音号，但替换成传统编制时对应声部也可以正常演奏。\r\n可能是我整的最快的一个活~编曲加剪辑一共只花了两天半时间，大部分时间是用在摸鱼上了w。\r\n为避免患有光敏性癫痫的人群的安全隐患，降低了视频中闪烁画面的亮度与对比度。"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "pin",
+  "id": "1423492095231746048",
+  "url": "https://www.zhihu.com/pin/1423492095231746048",
+  "title": "马克吐温诚不欺我",
+  "author": "陈子敏",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1632166962,
+  "updated": 1632166962,
+  "voteup_count": 3,
+  "comment_count": 0,
+  "favorite_count": 0,
+  "like_count": 0,
+  "source": "api",
+  "extra": {
+    "parts": [
+      {
+        "content": "马克吐温诚不欺我",
+        "fold_type": "raw",
+        "own_text": "马克吐温诚不欺我",
+        "type": "text"
+      }
+    ]
+  }
+}

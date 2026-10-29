@@ -1,0 +1,25 @@
+{
+  "type": "pin",
+  "id": "1444991634958557184",
+  "url": "https://www.zhihu.com/pin/1444991634958557184",
+  "title": "dizzarz : 讲一句，知乎在原po的评论下居然建议知乎大v学习一下如何使用知乎的基本功能。说明A、功能引导做的太差",
+  "author": "陈子敏",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1637292852,
+  "updated": 1637292852,
+  "voteup_count": 4,
+  "comment_count": 1,
+  "favorite_count": 0,
+  "like_count": 1,
+  "source": "api",
+  "extra": {
+    "parts": [
+      {
+        "content": "<a href=\"https://www.zhihu.com/people/4f28b74f2dd59e9f76672d9900ac2d28\" data-repin=\"comment_1444958972092096513\" data-hash=\"4f28b74f2dd59e9f76672d9900ac2d28\" class=\"member_mention\" data-hovercard=\"p$b$4f28b74f2dd59e9f76672d9900ac2d28\">dizzarz</a>: 讲一句，知乎在原po的评论下居然建议知乎大v学习一下如何使用知乎的基本功能。说明A、功能引导做的太差。B、避重就轻。C、知乎反对知乎。 <a data-hash=\"7b0512d66dc88401b82ff18fe287259e\" class=\"member_mention\" href=\"https://www.zhihu.com/people/7b0512d66dc88401b82ff18fe287259e\" data-repin=\"comment_1444637378934075392\" data-hovercard=\"p$b$7b0512d66dc88401b82ff18fe287259e\">夏昊</a>: 知乎要是做不好算法，可以从字节跳动和小红书里找几个离职员工。当然我认为不是做不好，而是他们的产品经理很得意😎 <a data-hash=\"a9e8020ab8915ddd582d358578d25a8b\" href=\"https://www.zhihu.com/people/a9e8020ab8915ddd582d358578d25a8b\" class=\"member_mention\" data-repin=\"1444635293194711040\" data-hovercard=\"p$b$a9e8020ab8915ddd582d358578d25a8b\">@龙兄</a>: 知乎迟早倒闭，小管家人均初中学历大家都知道，现在又想去抢抖音和B站的饭碗，用屁股想想都知道这是不可能成功的",
+        "fold_type": "raw",
+        "own_text": "",
+        "type": "text"
+      }
+    ]
+  }
+}

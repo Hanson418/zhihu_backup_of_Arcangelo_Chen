@@ -1,0 +1,104 @@
+{
+  "type": "zvideo",
+  "id": "1399952845257498624",
+  "url": "https://www.zhihu.com/zvideo/1399952845257498624",
+  "title": "东京奥运会开幕式主题曲《东京欢迎你》（迫真）",
+  "author": "陈子敏",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1626554997,
+  "updated": 1627778545,
+  "voteup_count": 2607,
+  "comment_count": 588,
+  "favorite_count": 1142,
+  "like_count": 1464,
+  "source": "api",
+  "extra": {
+    "video": {
+      "playlist": {
+        "hd": {
+          "play_url": "https://vdn3.vzuu.com/HD/0299985c-e740-11eb-93d4-222e31c0b2aa-v4_t11-vhs5NLgK1N.mp4?auth_key=1792303210-0-0-d3babba5d8deae92375d7a9400e16762&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303210&f=mp4&pu=da4bec50&v=tx",
+          "bitrate": 999,
+          "duration": 128.957,
+          "format": "mp4",
+          "fps": 23,
+          "size": 16114400,
+          "height": 736,
+          "width": 1280,
+          "channels": 2,
+          "sample_rate": 44100,
+          "url": "https://vdn3.vzuu.com/HD/0299985c-e740-11eb-93d4-222e31c0b2aa-v4_t11-vhs5NLgK1N.mp4?auth_key=1792303210-0-0-d3babba5d8deae92375d7a9400e16762&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303210&f=mp4&pu=da4bec50&v=tx"
+        },
+        "ld": {
+          "play_url": "https://vdn3.vzuu.com/SD/0299985c-e740-11eb-93d4-222e31c0b2aa-v4_t11-vhs5NLgK1N.mp4?auth_key=1792303210-0-0-bf8eefe87c7b4cca7c46cdbe0155b04f&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303210&f=mp4&pu=da4bec50&v=tx",
+          "bitrate": 619,
+          "duration": 128.957,
+          "format": "mp4",
+          "fps": 23,
+          "size": 9993941,
+          "height": 486,
+          "width": 848,
+          "channels": 2,
+          "sample_rate": 44100,
+          "url": "https://vdn3.vzuu.com/SD/0299985c-e740-11eb-93d4-222e31c0b2aa-v4_t11-vhs5NLgK1N.mp4?auth_key=1792303210-0-0-bf8eefe87c7b4cca7c46cdbe0155b04f&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303210&f=mp4&pu=da4bec50&v=tx"
+        },
+        "sd": {
+          "play_url": "https://vdn3.vzuu.com/SD/0299985c-e740-11eb-93d4-222e31c0b2aa-v4_t11-vhs5NLgK1N.mp4?auth_key=1792303210-0-0-bf8eefe87c7b4cca7c46cdbe0155b04f&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303210&f=mp4&pu=da4bec50&v=tx",
+          "bitrate": 619,
+          "duration": 128.957,
+          "format": "mp4",
+          "fps": 23,
+          "size": 9993941,
+          "height": 486,
+          "width": 848,
+          "channels": 2,
+          "sample_rate": 44100,
+          "url": "https://vdn3.vzuu.com/SD/0299985c-e740-11eb-93d4-222e31c0b2aa-v4_t11-vhs5NLgK1N.mp4?auth_key=1792303210-0-0-bf8eefe87c7b4cca7c46cdbe0155b04f&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303210&f=mp4&pu=da4bec50&v=tx"
+        }
+      },
+      "variants": [
+        {
+          "quality": "hd",
+          "quality_label": "hd",
+          "url": "https://vdn3.vzuu.com/HD/0299985c-e740-11eb-93d4-222e31c0b2aa-v4_t11-vhs5NLgK1N.mp4?auth_key=1792303210-0-0-d3babba5d8deae92375d7a9400e16762&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303210&f=mp4&pu=da4bec50&v=tx",
+          "format": "mp4",
+          "width": 1280,
+          "height": 736,
+          "bitrate": 999,
+          "size": 16114400,
+          "duration": 128.957
+        },
+        {
+          "quality": "ld",
+          "quality_label": "sd",
+          "url": "https://vdn3.vzuu.com/SD/0299985c-e740-11eb-93d4-222e31c0b2aa-v4_t11-vhs5NLgK1N.mp4?auth_key=1792303210-0-0-bf8eefe87c7b4cca7c46cdbe0155b04f&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303210&f=mp4&pu=da4bec50&v=tx",
+          "format": "mp4",
+          "width": 848,
+          "height": 486,
+          "bitrate": 619,
+          "size": 9993941,
+          "duration": 128.957
+        }
+      ],
+      "url": "https://vdn3.vzuu.com/HD/0299985c-e740-11eb-93d4-222e31c0b2aa-v4_t11-vhs5NLgK1N.mp4?auth_key=1792303210-0-0-d3babba5d8deae92375d7a9400e16762&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303210&f=mp4&pu=da4bec50&v=tx",
+      "cover": "https://pic1.zhimg.com/v2-f005c8d63e7c2ebbc05884642a52de00_1440w.jpg?source=12a79843",
+      "duration": 128.957,
+      "width": 1280,
+      "height": 736,
+      "bitrate": 999,
+      "size": 16114400,
+      "local_file": "videos/001.mp4",
+      "video_meta": {
+        "local_file": "videos/001.mp4",
+        "url": "https://vdn3.vzuu.com/HD/0299985c-e740-11eb-93d4-222e31c0b2aa-v4_t11-vhs5NLgK1N.mp4?auth_key=1792303210-0-0-d3babba5d8deae92375d7a9400e16762&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303210&f=mp4&pu=da4bec50&v=tx",
+        "quality": "hd",
+        "format": "mp4",
+        "size": 16114400,
+        "width": 1280,
+        "height": 736,
+        "bitrate": 999,
+        "duration": 128.957
+      }
+    },
+    "description": "https://b23.tv/KLGmyV\n\n这是2020年东京奥运会开幕式的删减片段，由于效果过于阴间引起大量观众恐慌，被国际奥委会官方强制要求删除，如今时隔一年这段影像重见天日，👴非常感……啊东京奥运会还没开幕哦那没事了\n祝2021年东京奥运会办的红红火火顺顺利利（确信），并期待中国奥运健儿勇夺金牌。"
+  }
+}

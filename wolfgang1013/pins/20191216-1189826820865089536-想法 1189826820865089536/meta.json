@@ -1,0 +1,93 @@
+{
+  "type": "pin",
+  "id": "1189826820865089536",
+  "url": "https://www.zhihu.com/pin/1189826820865089536",
+  "title": "想法 20191216",
+  "author": "陈子敏",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1576456819,
+  "updated": 1576456819,
+  "voteup_count": 8,
+  "comment_count": 2,
+  "favorite_count": 0,
+  "like_count": 0,
+  "source": "api",
+  "extra": {
+    "parts": [
+      {
+        "content": "",
+        "fold_type": "raw",
+        "own_text": "",
+        "type": "text"
+      },
+      {
+        "playlist": {
+          "ld": {
+            "format": "mp4",
+            "play_url": "https://vdn3.vzuu.com/SD/9ed2b2e8-1f9c-11ea-ad3d-2ecc1ae10532.mp4?auth_key=1792303645-0-0-f9df0da0bf123ec3d6d7fb6f00933945&bu=209361c5&c=avc.0.0&disable_local_cache=1&expiration=1792303645&f=mp4&pu=da4bec50&v=tx",
+            "height": 478,
+            "width": 848,
+            "duration": 5,
+            "bitrate": 892,
+            "size": 569788
+          },
+          "hd": {
+            "format": "mp4",
+            "play_url": "https://vdn3.vzuu.com/SD/9ed2b2e8-1f9c-11ea-ad3d-2ecc1ae10532.mp4?auth_key=1792303645-0-0-f9df0da0bf123ec3d6d7fb6f00933945&bu=209361c5&c=avc.0.0&disable_local_cache=1&expiration=1792303645&f=mp4&pu=da4bec50&v=tx",
+            "height": 478,
+            "width": 848,
+            "duration": 5,
+            "bitrate": 892,
+            "size": 569788
+          },
+          "sd": {
+            "format": "mp4",
+            "play_url": "https://vdn3.vzuu.com/SD/9ed2b2e8-1f9c-11ea-ad3d-2ecc1ae10532.mp4?auth_key=1792303645-0-0-f9df0da0bf123ec3d6d7fb6f00933945&bu=209361c5&c=avc.0.0&disable_local_cache=1&expiration=1792303645&f=mp4&pu=da4bec50&v=tx",
+            "height": 478,
+            "width": 848,
+            "duration": 5,
+            "bitrate": 892,
+            "size": 569788
+          }
+        },
+        "title": "",
+        "cover_info": {
+          "width": 0,
+          "thumbnail": "https://pica.zhimg.com/v2-89d87fa7cb9a2464b4190389b4760817.jpg?source=25ab7b06",
+          "height": 0
+        },
+        "duration": 5,
+        "type": "video",
+        "id": "1189826790712221696",
+        "video_variants": [
+          {
+            "quality": "ld",
+            "quality_label": "sd",
+            "url": "https://vdn3.vzuu.com/SD/9ed2b2e8-1f9c-11ea-ad3d-2ecc1ae10532.mp4?auth_key=1792303645-0-0-f9df0da0bf123ec3d6d7fb6f00933945&bu=209361c5&c=avc.0.0&disable_local_cache=1&expiration=1792303645&f=mp4&pu=da4bec50&v=tx",
+            "format": "mp4",
+            "width": 848,
+            "height": 478,
+            "bitrate": 892,
+            "size": 569788,
+            "duration": 5
+          }
+        ],
+        "play_url": "https://vdn3.vzuu.com/SD/9ed2b2e8-1f9c-11ea-ad3d-2ecc1ae10532.mp4?auth_key=1792303645-0-0-f9df0da0bf123ec3d6d7fb6f00933945&bu=209361c5&c=avc.0.0&disable_local_cache=1&expiration=1792303645&f=mp4&pu=da4bec50&v=tx",
+        "cover": "https://pica.zhimg.com/v2-89d87fa7cb9a2464b4190389b4760817.jpg?source=25ab7b06",
+        "video_id": "1189826790712221696",
+        "local_file": "videos/1189826790712221696.mp4",
+        "video_meta": {
+          "local_file": "videos/1189826790712221696.mp4",
+          "url": "https://vdn3.vzuu.com/SD/9ed2b2e8-1f9c-11ea-ad3d-2ecc1ae10532.mp4?auth_key=1792303645-0-0-f9df0da0bf123ec3d6d7fb6f00933945&bu=209361c5&c=avc.0.0&disable_local_cache=1&expiration=1792303645&f=mp4&pu=da4bec50&v=tx",
+          "quality": "sd",
+          "format": "mp4",
+          "size": 569788,
+          "width": 848,
+          "height": 478,
+          "bitrate": 892,
+          "duration": 5
+        }
+      }
+    ]
+  }
+}

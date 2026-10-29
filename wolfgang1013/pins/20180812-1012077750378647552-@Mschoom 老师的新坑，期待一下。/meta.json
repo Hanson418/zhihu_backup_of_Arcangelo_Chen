@@ -1,0 +1,25 @@
+{
+  "type": "pin",
+  "id": "1012077750378647552",
+  "url": "https://www.zhihu.com/pin/1012077750378647552",
+  "title": "@Mschoom 老师的新坑，期待一下。",
+  "author": "陈子敏",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1534078139,
+  "updated": 1534078139,
+  "voteup_count": 5,
+  "comment_count": 0,
+  "favorite_count": 0,
+  "like_count": 0,
+  "source": "api",
+  "extra": {
+    "parts": [
+      {
+        "content": "<a data-hash=\"28f221c2b42f9d0ed954f8086359c997\" href=\"https://www.zhihu.com/people/28f221c2b42f9d0ed954f8086359c997\" class=\"member_mention\" data-hovercard=\"p$b$28f221c2b42f9d0ed954f8086359c997\">@Mschoom </a>老师的新坑，期待一下。",
+        "fold_type": "raw",
+        "own_text": "<a data-hash=\"28f221c2b42f9d0ed954f8086359c997\" href=\"https://www.zhihu.com/people/28f221c2b42f9d0ed954f8086359c997\" class=\"member_mention\" data-hovercard=\"p$b$28f221c2b42f9d0ed954f8086359c997\">@Mschoom </a>老师的新坑，期待一下。",
+        "type": "text"
+      }
+    ]
+  }
+}

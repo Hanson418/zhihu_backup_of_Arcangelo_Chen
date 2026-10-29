@@ -1,0 +1,34 @@
+{
+  "type": "pin",
+  "id": "1402090235509993472",
+  "url": "https://www.zhihu.com/pin/1402090235509993472",
+  "title": "最近三伏天，给大家画点凉快的图～",
+  "author": "陈子敏",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1627064361,
+  "updated": 1627064361,
+  "voteup_count": 15,
+  "comment_count": 3,
+  "favorite_count": 0,
+  "like_count": 0,
+  "source": "api",
+  "extra": {
+    "parts": [
+      {
+        "content": "最近三伏天，给大家画点凉快的图～",
+        "fold_type": "raw",
+        "own_text": "最近三伏天，给大家画点凉快的图～",
+        "type": "text"
+      },
+      {
+        "original_url": "https://pic2.zhimg.com/50/v2-2ee4797e0a162beb3bc9007b52510d32_qhd.jpg",
+        "url": "https://pic2.zhimg.com/50/v2-2ee4797e0a162beb3bc9007b52510d32_qhd.jpg",
+        "thumbnail": "",
+        "height": 1080,
+        "width": 1528,
+        "type": "image",
+        "is_gif": false
+      }
+    ]
+  }
+}

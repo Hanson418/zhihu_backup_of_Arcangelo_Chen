@@ -1,0 +1,25 @@
+{
+  "type": "pin",
+  "id": "1235846729876127744",
+  "url": "https://www.zhihu.com/pin/1235846729876127744",
+  "title": "真的是太厉害了（便乘",
+  "author": "陈子敏",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1587428821,
+  "updated": 1587428821,
+  "voteup_count": 8,
+  "comment_count": 0,
+  "favorite_count": 0,
+  "like_count": 0,
+  "source": "api",
+  "extra": {
+    "parts": [
+      {
+        "content": "真的是太厉害了（便乘",
+        "fold_type": "raw",
+        "own_text": "真的是太厉害了（便乘",
+        "type": "text"
+      }
+    ]
+  }
+}

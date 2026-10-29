@@ -1,0 +1,34 @@
+{
+  "type": "pin",
+  "id": "1105266231535542272",
+  "url": "https://www.zhihu.com/pin/1105266231535542272",
+  "title": "这都什么天才提问……看一个笑一个居然还有人热心回答 #奇题共赏#",
+  "author": "陈子敏",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1556296004,
+  "updated": 1556296004,
+  "voteup_count": 16,
+  "comment_count": 9,
+  "favorite_count": 0,
+  "like_count": 0,
+  "source": "api",
+  "extra": {
+    "parts": [
+      {
+        "content": "这都什么天才提问……看一个笑一个居然还有人热心回答<br><a class=\"hash_tag\" href=\"https://www.zhihu.com/pin/special/974705667680931840\">#奇题共赏#</a>",
+        "fold_type": "raw",
+        "own_text": "这都什么天才提问……看一个笑一个居然还有人热心回答<br><a class=\"hash_tag\" href=\"https://www.zhihu.com/pin/special/974705667680931840\">#奇题共赏#</a>",
+        "type": "text"
+      },
+      {
+        "original_url": "https://pic1.zhimg.com/50/v2-1d9bc890df7f741dad89e39dffbea669_qhd.jpg",
+        "url": "https://pic1.zhimg.com/50/v2-1d9bc890df7f741dad89e39dffbea669_qhd.jpg",
+        "thumbnail": "",
+        "height": 960,
+        "width": 366,
+        "type": "image",
+        "is_gif": false
+      }
+    ]
+  }
+}

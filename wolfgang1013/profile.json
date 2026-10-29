@@ -1,0 +1,44 @@
+{
+  "url_token": "wolfgang1013",
+  "name": "陈子敏",
+  "headline": "漫画，作曲，历史与哲学爱好者",
+  "avatar_url": "https://picx.zhimg.com/v2-50cbfc6df356062024f0a82bf0e75aee_xll.jpg",
+  "avatar_file": "avatar.jpg",
+  "url": "https://www.zhihu.com/people/wolfgang1013",
+  "answer_count": 250,
+  "articles_count": 3,
+  "pins_count": 152,
+  "follower_count": 53540,
+  "following_count": 1609,
+  "description": "青年作曲家、自由撰稿人",
+  "industry": "创意艺术",
+  "industry_logo_url": "",
+  "industry_logo": "",
+  "employments": [
+    {
+      "company": "Pseudo College of Music",
+      "company_url": "https://www.zhihu.com/topic/20035619",
+      "job": "现任保卫处兼招生办主任",
+      "logo_url": "https://picx.zhimg.com/v2-31a0c51eb8f0d427a2b6333784b11cff_l.jpg",
+      "created": 0,
+      "updated": 0,
+      "logo_file": "logos/employment_1.png"
+    }
+  ],
+  "educations": [
+    {
+      "school": "Pseudo College of Music",
+      "school_url": "https://www.zhihu.com/topic/20035619",
+      "major": "作曲与作曲技术理论",
+      "diploma": "",
+      "logo_url": "https://picx.zhimg.com/v2-31a0c51eb8f0d427a2b6333784b11cff_l.jpg",
+      "created": 0,
+      "logo_file": "logos/education_1.png"
+    }
+  ],
+  "locations": [],
+  "ip_location": "四川",
+  "cover_url": "https://picx.zhimg.com/v2-4c22b5bc32bc584b1cce0df8e72e8431_1440w.jpg",
+  "cover_file": "cover.jpg",
+  "fetched_at": "2026-10-18T13:09:56"
+}

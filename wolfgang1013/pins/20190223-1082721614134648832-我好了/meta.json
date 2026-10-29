@@ -1,0 +1,25 @@
+{
+  "type": "pin",
+  "id": "1082721614134648832",
+  "url": "https://www.zhihu.com/pin/1082721614134648832",
+  "title": "我好了",
+  "author": "陈子敏",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1550920948,
+  "updated": 1550920948,
+  "voteup_count": 3,
+  "comment_count": 1,
+  "favorite_count": 0,
+  "like_count": 0,
+  "source": "api",
+  "extra": {
+    "parts": [
+      {
+        "content": "我好了",
+        "fold_type": "raw",
+        "own_text": "我好了",
+        "type": "text"
+      }
+    ]
+  }
+}

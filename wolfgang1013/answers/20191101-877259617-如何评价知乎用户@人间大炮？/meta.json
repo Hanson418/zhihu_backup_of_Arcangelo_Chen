@@ -1,0 +1,39 @@
+{
+  "type": "answer",
+  "id": "877259617",
+  "url": "https://www.zhihu.com/question/352494156/answer/877259617",
+  "title": "如何评价知乎用户@人间大炮？",
+  "author": "陈子敏",
+  "author_url": "http://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1572542570,
+  "updated": 1572859946,
+  "voteup_count": 78,
+  "comment_count": 11,
+  "favorite_count": 9,
+  "like_count": 16,
+  "source": "api",
+  "extra": {
+    "question_id": "352494156",
+    "question_title": "如何评价知乎用户@人间大炮？",
+    "question_html": "",
+    "embedded_videos": [
+      {
+        "id": "1173726902350516224",
+        "local_file": "videos/1173726902350516224.mp4",
+        "url": "https://vdn3.vzuu.com/SD/v3_63143378-fcb3-11e9-be60-d22a77eae9ef.mp4?auth_key=1792303540-0-0-6312c5e1ecb1a237fd13e99fffbfd389&bu=09fd86c2&c=avc.0.0&disable_local_cache=1&expiration=1792303540&f=mp4&pu=da4bec50&v=tx&pp=ChMxNDAxNjIzODY1NzM5NTc5MzkyGGMiC2ZlZWRfY2hvaWNlMhMxMzY5MDA1NjA4NTk5OTA0MjU3PXu830Q%3D&pf=Web&pt=zhihu",
+        "poster": "",
+        "video_meta": {
+          "local_file": "videos/1173726902350516224.mp4",
+          "url": "https://vdn3.vzuu.com/SD/v3_63143378-fcb3-11e9-be60-d22a77eae9ef.mp4?auth_key=1792303540-0-0-6312c5e1ecb1a237fd13e99fffbfd389&bu=09fd86c2&c=avc.0.0&disable_local_cache=1&expiration=1792303540&f=mp4&pu=da4bec50&v=tx&pp=ChMxNDAxNjIzODY1NzM5NTc5MzkyGGMiC2ZlZWRfY2hvaWNlMhMxMzY5MDA1NjA4NTk5OTA0MjU3PXu830Q%3D&pf=Web&pt=zhihu",
+          "quality": "hd",
+          "format": "mp4",
+          "size": 2038616,
+          "width": 0,
+          "height": 0,
+          "bitrate": 0,
+          "duration": 0
+        }
+      }
+    ]
+  }
+}

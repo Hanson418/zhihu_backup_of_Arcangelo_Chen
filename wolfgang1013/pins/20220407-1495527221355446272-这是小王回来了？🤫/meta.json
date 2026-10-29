@@ -1,0 +1,25 @@
+{
+  "type": "pin",
+  "id": "1495527221355446272",
+  "url": "https://www.zhihu.com/pin/1495527221355446272",
+  "title": "这是小王回来了？🤫",
+  "author": "陈子敏",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1649341475,
+  "updated": 1649341475,
+  "voteup_count": 10,
+  "comment_count": 0,
+  "favorite_count": 0,
+  "like_count": 5,
+  "source": "api",
+  "extra": {
+    "parts": [
+      {
+        "content": "这是小王回来了？🤫",
+        "fold_type": "raw",
+        "own_text": "这是小王回来了？🤫",
+        "type": "text"
+      }
+    ]
+  }
+}

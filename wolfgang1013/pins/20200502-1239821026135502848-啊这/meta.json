@@ -1,0 +1,25 @@
+{
+  "type": "pin",
+  "id": "1239821026135502848",
+  "url": "https://www.zhihu.com/pin/1239821026135502848",
+  "title": "啊这",
+  "author": "陈子敏",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1588376367,
+  "updated": 1588376367,
+  "voteup_count": 6,
+  "comment_count": 0,
+  "favorite_count": 0,
+  "like_count": 0,
+  "source": "api",
+  "extra": {
+    "parts": [
+      {
+        "content": "啊这",
+        "fold_type": "raw",
+        "own_text": "啊这",
+        "type": "text"
+      }
+    ]
+  }
+}

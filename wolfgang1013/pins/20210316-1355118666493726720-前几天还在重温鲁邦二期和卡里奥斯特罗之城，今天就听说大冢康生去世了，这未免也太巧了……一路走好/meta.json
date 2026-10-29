@@ -1,0 +1,34 @@
+{
+  "type": "pin",
+  "id": "1355118666493726720",
+  "url": "https://www.zhihu.com/pin/1355118666493726720",
+  "title": "前几天还在重温鲁邦二期和卡里奥斯特罗之城，今天就听说大冢康生去世了，这未免也太巧了……一路走好",
+  "author": "陈子敏",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1615865466,
+  "updated": 1615865466,
+  "voteup_count": 5,
+  "comment_count": 0,
+  "favorite_count": 0,
+  "like_count": 0,
+  "source": "api",
+  "extra": {
+    "parts": [
+      {
+        "content": "前几天还在重温鲁邦二期和卡里奥斯特罗之城，今天就听说大冢康生去世了，这未免也太巧了……一路走好",
+        "fold_type": "raw",
+        "own_text": "前几天还在重温鲁邦二期和卡里奥斯特罗之城，今天就听说大冢康生去世了，这未免也太巧了……一路走好",
+        "type": "text"
+      },
+      {
+        "original_url": "https://pic3.zhimg.com/50/v2-ce734b6d10865ce24a595bb344f897c8_qhd.jpg",
+        "url": "https://pic3.zhimg.com/50/v2-ce734b6d10865ce24a595bb344f897c8_qhd.jpg",
+        "thumbnail": "",
+        "height": 334,
+        "width": 600,
+        "type": "image",
+        "is_gif": false
+      }
+    ]
+  }
+}

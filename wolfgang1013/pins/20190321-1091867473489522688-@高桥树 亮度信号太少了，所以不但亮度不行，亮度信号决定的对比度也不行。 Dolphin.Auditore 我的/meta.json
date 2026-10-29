@@ -1,0 +1,25 @@
+{
+  "type": "pin",
+  "id": "1091867473489522688",
+  "url": "https://www.zhihu.com/pin/1091867473489522688",
+  "title": "@高桥树 : 亮度信号太少了，所以不但亮度不行，亮度信号决定的对比度也不行。 Dolphin.Auditore : 我的",
+  "author": "陈子敏",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1553101491,
+  "updated": 1553101491,
+  "voteup_count": 1,
+  "comment_count": 0,
+  "favorite_count": 0,
+  "like_count": 0,
+  "source": "api",
+  "extra": {
+    "parts": [
+      {
+        "content": "<a data-hash=\"b722ab1326083c34cbfab05d27d40e54\" href=\"https://www.zhihu.com/people/b722ab1326083c34cbfab05d27d40e54\" class=\"member_mention\" data-repin=\"1091842652206608384\" data-hovercard=\"p$b$b722ab1326083c34cbfab05d27d40e54\">@高桥树</a>: 亮度信号太少了，所以不但亮度不行，亮度信号决定的对比度也不行。 <a data-hash=\"c76c77feb5ac2fd93e2c8a74d1e8d941\" href=\"https://www.zhihu.com/people/c76c77feb5ac2fd93e2c8a74d1e8d941\" class=\"member_mention\" data-repin=\"comment_611976557\" data-hovercard=\"p$b$c76c77feb5ac2fd93e2c8a74d1e8d941\">Dolphin.Auditore</a>: 我的意思是，boom已经理解很正常，对比度结合yuv怎么起作用还没有很理解",
+        "fold_type": "raw",
+        "own_text": "",
+        "type": "text"
+      }
+    ]
+  }
+}

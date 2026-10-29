@@ -1,0 +1,25 @@
+{
+  "type": "pin",
+  "id": "1275034628068556800",
+  "url": "https://www.zhihu.com/pin/1275034628068556800",
+  "title": "民科共赏",
+  "author": "陈子敏",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1596771944,
+  "updated": 1596771944,
+  "voteup_count": 6,
+  "comment_count": 7,
+  "favorite_count": 0,
+  "like_count": 0,
+  "source": "api",
+  "extra": {
+    "parts": [
+      {
+        "content": "民科共赏",
+        "fold_type": "raw",
+        "own_text": "民科共赏",
+        "type": "text"
+      }
+    ]
+  }
+}

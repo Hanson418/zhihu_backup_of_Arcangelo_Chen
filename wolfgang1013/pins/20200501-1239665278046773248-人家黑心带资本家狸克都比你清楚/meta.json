@@ -1,0 +1,43 @@
+{
+  "type": "pin",
+  "id": "1239665278046773248",
+  "url": "https://www.zhihu.com/pin/1239665278046773248",
+  "title": "人家黑心带资本家狸克都比你清楚",
+  "author": "陈子敏",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1588339234,
+  "updated": 1588339234,
+  "voteup_count": 8,
+  "comment_count": 2,
+  "favorite_count": 0,
+  "like_count": 0,
+  "source": "api",
+  "extra": {
+    "parts": [
+      {
+        "content": "人家黑心带资本家狸克都比你清楚",
+        "fold_type": "raw",
+        "own_text": "人家黑心带资本家狸克都比你清楚",
+        "type": "text"
+      },
+      {
+        "original_url": "https://pic4.zhimg.com/50/v2-8c2f582b461da002268d96812a9b3220_ms.jpg",
+        "url": "https://pic4.zhimg.com/50/v2-8c2f582b461da002268d96812a9b3220_ms.jpg",
+        "thumbnail": "",
+        "height": 960,
+        "width": 449,
+        "type": "image",
+        "is_gif": false
+      },
+      {
+        "original_url": "https://pic2.zhimg.com/50/v2-7a17c3831f12d6533c14007089db044a_ms.jpg",
+        "url": "https://pic2.zhimg.com/50/v2-7a17c3831f12d6533c14007089db044a_ms.jpg",
+        "thumbnail": "",
+        "height": 2012,
+        "width": 2688,
+        "type": "image",
+        "is_gif": false
+      }
+    ]
+  }
+}

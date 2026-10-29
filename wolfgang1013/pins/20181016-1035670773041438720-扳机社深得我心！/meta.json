@@ -1,0 +1,25 @@
+{
+  "type": "pin",
+  "id": "1035670773041438720",
+  "url": "https://www.zhihu.com/pin/1035670773041438720",
+  "title": "扳机社深得我心！",
+  "author": "陈子敏",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1539703154,
+  "updated": 1539703154,
+  "voteup_count": 2,
+  "comment_count": 0,
+  "favorite_count": 0,
+  "like_count": 0,
+  "source": "api",
+  "extra": {
+    "parts": [
+      {
+        "content": "扳机社深得我心！",
+        "fold_type": "raw",
+        "own_text": "扳机社深得我心！",
+        "type": "text"
+      }
+    ]
+  }
+}

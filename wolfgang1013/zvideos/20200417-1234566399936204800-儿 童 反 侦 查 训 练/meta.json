@@ -1,0 +1,80 @@
+{
+  "type": "zvideo",
+  "id": "1234566399936204800",
+  "url": "https://www.zhihu.com/zvideo/1234566399936204800",
+  "title": "儿  童  反  侦  查  训  练",
+  "author": "wolfgang1013",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1587123895,
+  "updated": 1587124155,
+  "voteup_count": 0,
+  "comment_count": 0,
+  "favorite_count": 0,
+  "like_count": 0,
+  "source": "selenium",
+  "extra": {
+    "video": {
+      "playlist": {
+        "ld": {
+          "playUrl": "https://vdn3.vzuu.com/SD/16f839e6-80a0-11ea-95d0-12f20ab91ee3.mp4?auth_key=1792303841-0-0-cd7d4673781777c4101b410fe2f6eecc&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303841&f=mp4&pu=da4bec50&v=tx",
+          "bitrate": 111.438,
+          "duration": 15.07,
+          "format": "mp4",
+          "fps": 25,
+          "size": 209923,
+          "height": 848,
+          "width": 396,
+          "channels": 2,
+          "sampleRate": 44100,
+          "url": "https://vdn3.vzuu.com/SD/16f839e6-80a0-11ea-95d0-12f20ab91ee3.mp4?auth_key=1792303841-0-0-cd7d4673781777c4101b410fe2f6eecc&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303841&f=mp4&pu=da4bec50&v=tx"
+        },
+        "sd": {
+          "playUrl": "https://vdn3.vzuu.com/SD/16f839e6-80a0-11ea-95d0-12f20ab91ee3.mp4?auth_key=1792303841-0-0-cd7d4673781777c4101b410fe2f6eecc&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303841&f=mp4&pu=da4bec50&v=tx",
+          "bitrate": 111.438,
+          "duration": 15.07,
+          "format": "mp4",
+          "fps": 25,
+          "size": 209923,
+          "height": 848,
+          "width": 396,
+          "channels": 2,
+          "sampleRate": 44100,
+          "url": "https://vdn3.vzuu.com/SD/16f839e6-80a0-11ea-95d0-12f20ab91ee3.mp4?auth_key=1792303841-0-0-cd7d4673781777c4101b410fe2f6eecc&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303841&f=mp4&pu=da4bec50&v=tx"
+        }
+      },
+      "variants": [
+        {
+          "quality": "ld",
+          "quality_label": "hd",
+          "url": "https://vdn3.vzuu.com/SD/16f839e6-80a0-11ea-95d0-12f20ab91ee3.mp4?auth_key=1792303841-0-0-cd7d4673781777c4101b410fe2f6eecc&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303841&f=mp4&pu=da4bec50&v=tx",
+          "format": "mp4",
+          "width": 396,
+          "height": 848,
+          "bitrate": 111,
+          "size": 209923,
+          "duration": 15.07
+        }
+      ],
+      "url": "https://vdn3.vzuu.com/SD/16f839e6-80a0-11ea-95d0-12f20ab91ee3.mp4?auth_key=1792303841-0-0-cd7d4673781777c4101b410fe2f6eecc&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303841&f=mp4&pu=da4bec50&v=tx",
+      "cover": "https://picx.zhimg.com/v2-927de0bc5b02cf0c7e2334afefd32790_1440w.jpg?source=12a79843",
+      "duration": 15.07,
+      "width": 396,
+      "height": 848,
+      "bitrate": 111,
+      "size": 209923,
+      "local_file": "videos/001.mp4",
+      "video_meta": {
+        "local_file": "videos/001.mp4",
+        "url": "https://vdn3.vzuu.com/SD/16f839e6-80a0-11ea-95d0-12f20ab91ee3.mp4?auth_key=1792303841-0-0-cd7d4673781777c4101b410fe2f6eecc&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303841&f=mp4&pu=da4bec50&v=tx",
+        "quality": "hd",
+        "format": "mp4",
+        "size": 209923,
+        "width": 396,
+        "height": 848,
+        "bitrate": 111,
+        "duration": 15.07
+      }
+    },
+    "description": ""
+  }
+}

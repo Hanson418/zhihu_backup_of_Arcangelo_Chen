@@ -1,0 +1,25 @@
+{
+  "type": "pin",
+  "id": "1095192789863755776",
+  "url": "https://www.zhihu.com/pin/1095192789863755776",
+  "title": "@云舞空城 : 纳尼？评论区正在以肉眼可见的速率减薄？？！",
+  "author": "陈子敏",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1553894308,
+  "updated": 1553894308,
+  "voteup_count": 5,
+  "comment_count": 0,
+  "favorite_count": 0,
+  "like_count": 0,
+  "source": "api",
+  "extra": {
+    "parts": [
+      {
+        "content": "<a data-hash=\"c39f4121c89698006dd97f020769c19b\" href=\"https://www.zhihu.com/people/c39f4121c89698006dd97f020769c19b\" class=\"member_mention\" data-repin=\"comment_617063296\" data-hovercard=\"p$b$c39f4121c89698006dd97f020769c19b\">@云舞空城</a>: 纳尼？评论区正在以肉眼可见的速率减薄？？！",
+        "fold_type": "raw",
+        "own_text": "",
+        "type": "text"
+      }
+    ]
+  }
+}

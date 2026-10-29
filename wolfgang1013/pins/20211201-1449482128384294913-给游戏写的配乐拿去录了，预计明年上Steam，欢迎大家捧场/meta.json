@@ -1,0 +1,167 @@
+{
+  "type": "pin",
+  "id": "1449482128384294913",
+  "url": "https://www.zhihu.com/pin/1449482128384294913",
+  "title": "给游戏写的配乐拿去录了，预计明年上Steam，欢迎大家捧场",
+  "author": "陈子敏",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1638363469,
+  "updated": 1638363469,
+  "voteup_count": 23,
+  "comment_count": 4,
+  "favorite_count": 1,
+  "like_count": 6,
+  "source": "api",
+  "extra": {
+    "parts": [
+      {
+        "title": "",
+        "content": "给游戏写的配乐拿去录了，预计明年上Steam，欢迎大家捧场",
+        "fold_type": "raw",
+        "own_text": "给游戏写的配乐拿去录了，预计明年上Steam，欢迎大家捧场",
+        "type": "text",
+        "text_link_type": "internal"
+      },
+      {
+        "status": "success",
+        "width": 848,
+        "playlist": [
+          {
+            "format": "mp4",
+            "url": "https://vdn3.vzuu.com/SD/dad5fc44-52a5-11ec-8b77-426945cda776-v4_t11-vmbmXkkOW9.mp4?auth_key=1792271105-0-0-9d96a1e6743eea83e1c89da56c59b0ce&bu=3a8548f7&c=avc.0.0&disable_local_cache=1&expiration=1792271105&f=mp4&pu=da4bec50&v=tx",
+            "bitrate": 327,
+            "height": 476,
+            "width": 848,
+            "fps": 25,
+            "duration": 39,
+            "quality": "ld",
+            "size": 1557061
+          },
+          {
+            "format": "mp4",
+            "url": "https://vdn3.vzuu.com/HD/dad5fc44-52a5-11ec-8b77-426945cda776-v4_t11-vmbmXkkOW9.mp4?auth_key=1792271105-0-0-6b3c6a19c8a8b4b635525551069a4f73&bu=3a8548f7&c=avc.0.0&disable_local_cache=1&expiration=1792271105&f=mp4&pu=da4bec50&v=tx",
+            "bitrate": 477,
+            "height": 720,
+            "width": 1280,
+            "fps": 25,
+            "duration": 39,
+            "quality": "hd",
+            "size": 2269629
+          },
+          {
+            "format": "mp4",
+            "url": "https://vdn3.vzuu.com/SD/dad5fc44-52a5-11ec-8b77-426945cda776-v4_t11-vmbmXkkOW9.mp4?auth_key=1792271105-0-0-9d96a1e6743eea83e1c89da56c59b0ce&bu=3a8548f7&c=avc.0.0&disable_local_cache=1&expiration=1792271105&f=mp4&pu=da4bec50&v=tx",
+            "bitrate": 327,
+            "height": 476,
+            "width": 848,
+            "fps": 25,
+            "duration": 39,
+            "quality": "sd",
+            "size": 1557061
+          }
+        ],
+        "duration": 39,
+        "video_id": "1449481349007052801",
+        "type": "video",
+        "thumbnail": "https://picx.zhimg.com/v2-0817e5c44acdbf035a87fbcbb289d92c.jpg?source=25ab7b06",
+        "is_custom_thumbnail": null,
+        "height": 476,
+        "is_long": false,
+        "video_info": {
+          "video_id": "1449481349007052801",
+          "width": 848,
+          "height": 476,
+          "duration": 39,
+          "type": "video",
+          "thumbnail": "https://picx.zhimg.com/v2-0817e5c44acdbf035a87fbcbb289d92c.jpg?source=25ab7b06",
+          "play_count": 0,
+          "playlist": {
+            "hd": {
+              "play_url": "https://vdn3.vzuu.com/HD/dad5fc44-52a5-11ec-8b77-426945cda776-v4_t11-vmbmXkkOW9.mp4?auth_key=1792271105-0-0-6b3c6a19c8a8b4b635525551069a4f73&bu=3a8548f7&c=avc.0.0&disable_local_cache=1&expiration=1792271105&f=mp4&pu=da4bec50&v=tx",
+              "bitrate": 477,
+              "duration": 38.06,
+              "format": "mp4",
+              "fps": 25,
+              "size": 2269629,
+              "height": 720,
+              "width": 1280,
+              "channels": 2,
+              "sample_rate": 44100,
+              "url": "https://vdn3.vzuu.com/HD/dad5fc44-52a5-11ec-8b77-426945cda776-v4_t11-vmbmXkkOW9.mp4?auth_key=1792271105-0-0-6b3c6a19c8a8b4b635525551069a4f73&bu=3a8548f7&c=avc.0.0&disable_local_cache=1&expiration=1792271105&f=mp4&pu=da4bec50&v=tx"
+            },
+            "ld": {
+              "play_url": "https://vdn3.vzuu.com/SD/dad5fc44-52a5-11ec-8b77-426945cda776-v4_t11-vmbmXkkOW9.mp4?auth_key=1792271105-0-0-9d96a1e6743eea83e1c89da56c59b0ce&bu=3a8548f7&c=avc.0.0&disable_local_cache=1&expiration=1792271105&f=mp4&pu=da4bec50&v=tx",
+              "bitrate": 327,
+              "duration": 38.06,
+              "format": "mp4",
+              "fps": 25,
+              "size": 1557061,
+              "height": 476,
+              "width": 848,
+              "channels": 2,
+              "sample_rate": 44100,
+              "url": "https://vdn3.vzuu.com/SD/dad5fc44-52a5-11ec-8b77-426945cda776-v4_t11-vmbmXkkOW9.mp4?auth_key=1792271105-0-0-9d96a1e6743eea83e1c89da56c59b0ce&bu=3a8548f7&c=avc.0.0&disable_local_cache=1&expiration=1792271105&f=mp4&pu=da4bec50&v=tx"
+            },
+            "sd": {
+              "play_url": "https://vdn3.vzuu.com/SD/dad5fc44-52a5-11ec-8b77-426945cda776-v4_t11-vmbmXkkOW9.mp4?auth_key=1792271105-0-0-9d96a1e6743eea83e1c89da56c59b0ce&bu=3a8548f7&c=avc.0.0&disable_local_cache=1&expiration=1792271105&f=mp4&pu=da4bec50&v=tx",
+              "bitrate": 327,
+              "duration": 38.06,
+              "format": "mp4",
+              "fps": 25,
+              "size": 1557061,
+              "height": 476,
+              "width": 848,
+              "channels": 2,
+              "sample_rate": 44100,
+              "url": "https://vdn3.vzuu.com/SD/dad5fc44-52a5-11ec-8b77-426945cda776-v4_t11-vmbmXkkOW9.mp4?auth_key=1792271105-0-0-9d96a1e6743eea83e1c89da56c59b0ce&bu=3a8548f7&c=avc.0.0&disable_local_cache=1&expiration=1792271105&f=mp4&pu=da4bec50&v=tx"
+            }
+          },
+          "status": "SUCCESS",
+          "begin_frame": {
+            "HD": "https://picx.zhimg.com/v2-0817e5c44acdbf035a87fbcbb289d92c.jpg?source=25ab7b06",
+            "SD": "https://picx.zhimg.com/v2-0817e5c44acdbf035a87fbcbb289d92c.jpg?source=25ab7b06"
+          }
+        },
+        "video_bo_id": null,
+        "video_variants": [
+          {
+            "quality": "0",
+            "quality_label": "sd",
+            "url": "https://vdn3.vzuu.com/SD/dad5fc44-52a5-11ec-8b77-426945cda776-v4_t11-vmbmXkkOW9.mp4?auth_key=1792271105-0-0-9d96a1e6743eea83e1c89da56c59b0ce&bu=3a8548f7&c=avc.0.0&disable_local_cache=1&expiration=1792271105&f=mp4&pu=da4bec50&v=tx",
+            "format": "mp4",
+            "width": 848,
+            "height": 476,
+            "bitrate": 327,
+            "size": 1557061,
+            "duration": 39
+          },
+          {
+            "quality": "1",
+            "quality_label": "hd",
+            "url": "https://vdn3.vzuu.com/HD/dad5fc44-52a5-11ec-8b77-426945cda776-v4_t11-vmbmXkkOW9.mp4?auth_key=1792271105-0-0-6b3c6a19c8a8b4b635525551069a4f73&bu=3a8548f7&c=avc.0.0&disable_local_cache=1&expiration=1792271105&f=mp4&pu=da4bec50&v=tx",
+            "format": "mp4",
+            "width": 1280,
+            "height": 720,
+            "bitrate": 477,
+            "size": 2269629,
+            "duration": 39
+          }
+        ],
+        "play_url": "https://vdn3.vzuu.com/HD/dad5fc44-52a5-11ec-8b77-426945cda776-v4_t11-vmbmXkkOW9.mp4?auth_key=1792271105-0-0-6b3c6a19c8a8b4b635525551069a4f73&bu=3a8548f7&c=avc.0.0&disable_local_cache=1&expiration=1792271105&f=mp4&pu=da4bec50&v=tx",
+        "cover": "https://picx.zhimg.com/v2-0817e5c44acdbf035a87fbcbb289d92c.jpg?source=25ab7b06",
+        "local_file": "videos/1449481349007052801.mp4",
+        "video_meta": {
+          "local_file": "videos/1449481349007052801.mp4",
+          "url": "https://vdn3.vzuu.com/HD/dad5fc44-52a5-11ec-8b77-426945cda776-v4_t11-vmbmXkkOW9.mp4?auth_key=1792271105-0-0-6b3c6a19c8a8b4b635525551069a4f73&bu=3a8548f7&c=avc.0.0&disable_local_cache=1&expiration=1792271105&f=mp4&pu=da4bec50&v=tx",
+          "quality": "hd",
+          "format": "mp4",
+          "size": 2269629,
+          "width": 1280,
+          "height": 720,
+          "bitrate": 477,
+          "duration": 39
+        }
+      }
+    ]
+  }
+}

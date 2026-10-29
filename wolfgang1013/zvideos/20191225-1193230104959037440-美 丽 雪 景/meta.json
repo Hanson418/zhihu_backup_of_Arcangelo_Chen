@@ -1,0 +1,104 @@
+{
+  "type": "zvideo",
+  "id": "1193230104959037440",
+  "url": "https://www.zhihu.com/zvideo/1193230104959037440",
+  "title": "美 丽 雪 景",
+  "author": "wolfgang1013",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1577268546,
+  "updated": 1577268547,
+  "voteup_count": 0,
+  "comment_count": 0,
+  "favorite_count": 0,
+  "like_count": 0,
+  "source": "selenium",
+  "extra": {
+    "video": {
+      "playlist": {
+        "hd": {
+          "playUrl": "https://vdn3.vzuu.com/HD/v3_d1d14cdc-26fd-11ea-a732-7e262cbd4059.mp4?auth_key=1792303852-0-0-988aefbc602d5708045df8daac51ffd6&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303852&f=mp4&pu=da4bec50&v=tx",
+          "bitrate": 1337.1455078125,
+          "duration": 3.27999997139,
+          "format": "mp4",
+          "fps": 25,
+          "size": 565468,
+          "height": 720,
+          "width": 1280,
+          "channels": 2,
+          "sampleRate": 44100,
+          "url": "https://vdn3.vzuu.com/HD/v3_d1d14cdc-26fd-11ea-a732-7e262cbd4059.mp4?auth_key=1792303852-0-0-988aefbc602d5708045df8daac51ffd6&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303852&f=mp4&pu=da4bec50&v=tx"
+        },
+        "ld": {
+          "playUrl": "https://vdn3.vzuu.com/SD/v3_d1d14cdc-26fd-11ea-a732-7e262cbd4059.mp4?auth_key=1792303852-0-0-2354db148a82d4f5020c421db0c8c940&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303852&f=mp4&pu=da4bec50&v=tx",
+          "bitrate": 719.24609375,
+          "duration": 3.27999997139,
+          "format": "mp4",
+          "fps": 25,
+          "size": 306018,
+          "height": 476,
+          "width": 848,
+          "channels": 2,
+          "sampleRate": 44100,
+          "url": "https://vdn3.vzuu.com/SD/v3_d1d14cdc-26fd-11ea-a732-7e262cbd4059.mp4?auth_key=1792303852-0-0-2354db148a82d4f5020c421db0c8c940&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303852&f=mp4&pu=da4bec50&v=tx"
+        },
+        "sd": {
+          "playUrl": "https://vdn3.vzuu.com/SD/v3_d1d14cdc-26fd-11ea-a732-7e262cbd4059.mp4?auth_key=1792303852-0-0-2354db148a82d4f5020c421db0c8c940&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303852&f=mp4&pu=da4bec50&v=tx",
+          "bitrate": 719.24609375,
+          "duration": 3.27999997139,
+          "format": "mp4",
+          "fps": 25,
+          "size": 306018,
+          "height": 476,
+          "width": 848,
+          "channels": 2,
+          "sampleRate": 44100,
+          "url": "https://vdn3.vzuu.com/SD/v3_d1d14cdc-26fd-11ea-a732-7e262cbd4059.mp4?auth_key=1792303852-0-0-2354db148a82d4f5020c421db0c8c940&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303852&f=mp4&pu=da4bec50&v=tx"
+        }
+      },
+      "variants": [
+        {
+          "quality": "hd",
+          "quality_label": "hd",
+          "url": "https://vdn3.vzuu.com/HD/v3_d1d14cdc-26fd-11ea-a732-7e262cbd4059.mp4?auth_key=1792303852-0-0-988aefbc602d5708045df8daac51ffd6&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303852&f=mp4&pu=da4bec50&v=tx",
+          "format": "mp4",
+          "width": 1280,
+          "height": 720,
+          "bitrate": 1337,
+          "size": 565468,
+          "duration": 3.27999997139
+        },
+        {
+          "quality": "ld",
+          "quality_label": "sd",
+          "url": "https://vdn3.vzuu.com/SD/v3_d1d14cdc-26fd-11ea-a732-7e262cbd4059.mp4?auth_key=1792303852-0-0-2354db148a82d4f5020c421db0c8c940&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303852&f=mp4&pu=da4bec50&v=tx",
+          "format": "mp4",
+          "width": 848,
+          "height": 476,
+          "bitrate": 719,
+          "size": 306018,
+          "duration": 3.27999997139
+        }
+      ],
+      "url": "https://vdn3.vzuu.com/HD/v3_d1d14cdc-26fd-11ea-a732-7e262cbd4059.mp4?auth_key=1792303852-0-0-988aefbc602d5708045df8daac51ffd6&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303852&f=mp4&pu=da4bec50&v=tx",
+      "cover": "https://picx.zhimg.com/v2-14df8de2a993aab2b0283f9d02d86fd2_1440w.jpg?source=12a79843",
+      "duration": 3.27999997139,
+      "width": 1280,
+      "height": 720,
+      "bitrate": 1337,
+      "size": 565468,
+      "local_file": "videos/001.mp4",
+      "video_meta": {
+        "local_file": "videos/001.mp4",
+        "url": "https://vdn3.vzuu.com/HD/v3_d1d14cdc-26fd-11ea-a732-7e262cbd4059.mp4?auth_key=1792303852-0-0-988aefbc602d5708045df8daac51ffd6&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1792303852&f=mp4&pu=da4bec50&v=tx",
+        "quality": "hd",
+        "format": "mp4",
+        "size": 565468,
+        "width": 1280,
+        "height": 720,
+        "bitrate": 1337,
+        "duration": 3.27999997139
+      }
+    },
+    "description": ""
+  }
+}

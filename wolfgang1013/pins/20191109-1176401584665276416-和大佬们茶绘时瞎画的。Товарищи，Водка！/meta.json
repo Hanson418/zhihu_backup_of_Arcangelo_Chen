@@ -1,0 +1,34 @@
+{
+  "type": "pin",
+  "id": "1176401584665276416",
+  "url": "https://www.zhihu.com/pin/1176401584665276416",
+  "title": "和大佬们茶绘时瞎画的。Товарищи，Водка！",
+  "author": "陈子敏",
+  "author_url": "https://www.zhihu.com/people/91949509989e39acc6e55e4216ac260b",
+  "created": 1573255994,
+  "updated": 1573255994,
+  "voteup_count": 7,
+  "comment_count": 1,
+  "favorite_count": 0,
+  "like_count": 0,
+  "source": "api",
+  "extra": {
+    "parts": [
+      {
+        "content": "和大佬们茶绘时瞎画的。Товарищи，Водка！",
+        "fold_type": "raw",
+        "own_text": "和大佬们茶绘时瞎画的。Товарищи，Водка！",
+        "type": "text"
+      },
+      {
+        "original_url": "https://pic2.zhimg.com/50/v2-e51067cb9f0cc93e6256619f4708524a_qhd.jpg",
+        "url": "https://pic2.zhimg.com/50/v2-e51067cb9f0cc93e6256619f4708524a_qhd.jpg",
+        "thumbnail": "",
+        "height": 1505,
+        "width": 1560,
+        "type": "image",
+        "is_gif": false
+      }
+    ]
+  }
+}
